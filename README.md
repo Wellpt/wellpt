@@ -22,7 +22,6 @@ I am currently studying Systems Analysis and Development, focusing on web develo
  <div>
  
  
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
   <a href="https://github.com/Wellington-Nobre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellpt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellpt&layout=compact&langs_count=7&theme=dark"/>
@@ -39,5 +38,4 @@ I am currently studying Systems Analysis and Development, focusing on web develo
  
  ![Snake animation](https://github.com/Wellpt/Wellington-Nobre/blob/output/github-contribution-grid-snake.svg)
  
-  ##
  

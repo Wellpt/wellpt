@@ -12,6 +12,8 @@ One of the projects we worked on as a team was this: https://wellpt.github.io/Pr
 
 ⚡ I recently completed the Fullstack Tech-Academy course with a SURREAL victory for my team at HACKATHON. In 5 days we developed a solution that, in addition to being sustainable, enchanted the evaluators with our code.
 
+The project that led us to the victory of the HACKATHON Tech Academy: https://wellpt.github.io/TechTeamProject/
+
 ### Technologies in use:
 
 

@@ -7,6 +7,9 @@ About me
 
 I am currently studying Systems Analysis and Development, focusing on web development 🎓
 
+One of the projects we worked on as a team was this: https://wellpt.github.io/ProjetoDev/ where we use several tools and work as a team.
+
+
 ⚡ I recently completed the Fullstack Tech-Academy course with a SURREAL victory for my team at HACKATHON. In 5 days we developed a solution that, in addition to being sustainable, enchanted the evaluators with our code.
 
 ### Technologies in use:

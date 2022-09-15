@@ -3,7 +3,7 @@ My name is Wellington Nobre.
 
 About me
 
- 🔎 I seek to enter the gigantic world of technology, focused on development. I've always been passionate about technology since I was a child, but I had difficulty walking this path, due to financial conditions. I got my first computer when I was 17, before that, lan houses were my only contact with a PC, but I didn't give up on finding my way back, I first walked the path of independence, and then I returned to the professional destination that I love, technology.
+ 🔎 I am in the process of career migration, I have 15 years of experience in telecommunications, but I have always been passionate about technology since I was a child, but I had difficulty following this path, due to financial conditions. I got my first computer when I was 17, before lan houses were my only contact with a PC, but I didn't give up on finding my way back, first I walked the path of independence, and then I returned to a professional destination that I love, technology.
 
 I am currently studying Systems Analysis and Development, focusing on web development 🎓
 

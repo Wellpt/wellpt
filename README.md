@@ -5,7 +5,7 @@ About me
 
  🔎 I am in the process of career migration, I have 15 years of experience in telecommunications, but I have always been passionate about technology since I was a child, but I had difficulty following this path, due to financial conditions. I got my first computer when I was 17, before lan houses were my only contact with a PC, but I didn't give up on finding my way back, first I walked the path of independence, and then I returned to a professional destination that I love, technology.
 
-I am currently studying Systems Analysis and Development, focusing on web development 🎓
+Graduated in system analysis and development, I work as a fullstack developer at OI. And I'm pursuing graduate school in software engineering.🎓
 
 One of the projects we worked on as a team was this: https://wellpt.github.io/ProjetoDev/ where we use several tools and work as a team.
 

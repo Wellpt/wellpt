@@ -2,17 +2,12 @@
 My name is Wellington Nobre.
 
 About me
+I've been passionate about technology since I was a kid, I've always liked new things, testing new tools until I understood "technology was part of my life." So I started my work in a large telecommunications company seeking to reach the technology area, after 7 years working in this company I was able to start my work as a developer, during this period I graduated in systems analysis and development, I participated in several team projects. I even acted as SM/PO of a winning team of a Hackaton, which is in this link: https://wellpt.github.io/TechTeamProject/
+Since then I realized that working with what we identify with is the best thing about the professional process. We work on other projects, among them we have this https://wellpt.github.io/ProjetoDev/ with a team from various parts of Brazil that provided us with a variety of cultures and learning.
 
- 🔎 I am in the process of career migration, I have 15 years of experience in telecommunications, but I have always been passionate about technology since I was a child, but I had difficulty following this path, due to financial conditions. I got my first computer when I was 17, before lan houses were my only contact with a PC, but I didn't give up on finding my way back, first I walked the path of independence, and then I returned to a professional destination that I love, technology.
+Contact me: 
 
-Graduated in system analysis and development, I work as a fullstack developer at OI. And I'm pursuing graduate school in software engineering.🎓
-
-One of the projects we worked on as a team was this: https://wellpt.github.io/ProjetoDev/ where we use several tools and work as a team.
-
-
-⚡ I recently completed the Fullstack Tech-Academy course with a SURREAL victory for my team at HACKATHON. In 5 days we developed a solution that, in addition to being sustainable, enchanted the evaluators with our code.
-
-The project that led us to the victory of the HACKATHON Tech Academy: https://wellpt.github.io/TechTeamProject/
+Wellington_TechTeam@outlook.com.br
 
 ### Technologies in use:
 
